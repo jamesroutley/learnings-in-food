@@ -1,0 +1,4 @@
+baseURL = "https://jameswritesaboutfood.com/"
+languageCode = "en-gb"
+title = "Learnings about food"
+publishDir = "docs"

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/log/2019-01/</loc>
+    <lastmod>2019-01-06T20:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/posts/pressure-cooker-congee/</loc>
+    <lastmod>2018-12-27T01:22:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/posts/brine-fermented-cabbage/</loc>
+    <lastmod>2018-12-16T20:30:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/posts/loaf-tin-bread/</loc>
+    <lastmod>2018-12-16T19:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/</loc>
+    <lastmod>2019-01-06T20:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/tags/baking/</loc>
+    <lastmod>2018-12-16T19:40:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/tags/bread/</loc>
+    <lastmod>2018-12-16T19:40:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/tags/fermentation/</loc>
+    <lastmod>2018-12-16T20:30:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/log/</loc>
+    <lastmod>2019-01-06T20:53:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/posts/</loc>
+    <lastmod>2018-12-27T01:22:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/tags/projects/</loc>
+    <lastmod>2018-12-16T20:30:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/tags/</loc>
+    <lastmod>2018-12-16T19:40:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
