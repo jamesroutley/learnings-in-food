@@ -1,4 +1,4 @@
-baseURL = "https://jameswritesaboutfood.com/"
+baseURL = "https://learningsinfood.com/"
 languageCode = "en-gb"
-title = "Learnings about food"
+title = "Learnings in food"
 publishDir = "docs"
